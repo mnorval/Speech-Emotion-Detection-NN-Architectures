@@ -1,0 +1,13 @@
+#_DATA_PATH = "C:\\Phd\\Afrikaans"
+#_DATA_PATH = "C:\\Phd\\Afrikaans_noise_remove_generic"
+#_DATA_PATH = "C:\\Phd\\Afrikaansnoise_remove_kalman_1"
+#_DATA_PATH = "C:\\Phd\\Afrikaansnoise_remove_kalman_2"
+#_DATA_PATH = "C:\\Phd\\Afrikaans_spectral_gating"
+#_DATA_PATH = "C:\\Phd\\Afrikaans_spectral_subtract"
+#_DATA_PATH = "C:\\Phd\\Afrikaans_noise_remove_bandpass"
+#_DATA_PATH = "C:\\Phd\\Afrikaans_silence_remove"
+_DATA_PATH = "C:\\Phd\\Combined_Dataset"
+#_DATA_PATH = "C:\\Phd\\Other_Languages"
+_CLASS_LABELS =  ("Anger", "Anticipation","Disgust","Fear","Joy","Sadness","Suprise","Trust")
+mean_signal_length = 100000  # Empirically calculated for the given data set
+#mean_signal_length = 32000  # Empirically calculated for the given data set
